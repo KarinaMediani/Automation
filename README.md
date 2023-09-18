@@ -1,2 +1,2 @@
 # Automation
-Automação de testes de APi 
+Automação de testes de APi utilizando linguagem JAVA e RestArrured 
